@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=XZ2-SystemUI-XZP-Magisk
+name=XZ2-SystemUI for Xperia XZ Premium
+version=v0.9
+versionCode=0900
+author=the_brad
+description=
 minMagisk=1500
